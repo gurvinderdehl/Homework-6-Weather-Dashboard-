@@ -47,3 +47,18 @@ var getCurrentConditions = (event) => {
                 <li>Wind Speed: ${response.wind.speed} mph</li>
                 <li id="uvIndex">UV Index:</li>
             </ul>`;
+        
+      
+         $('#current-weather').html(currentWeatherHTML);
+     
+         let latitude = response.coord.lat;
+         let longitude = response.coord.lon;
+         let uvQueryURL = "api.openweathermap.org/data/2.5/uvi?lat=" + latitude + "&lon=" + longitude + "&APPID=" + owmAPI;
+  
+         uvQueryURL = "https://cors-anywhere.herokuapp.com/" + uvQueryURL;
+  
+         fetch(uvQueryURL)
+         .then(handleErrors)
+         .then((response) => {
+             return response.json();
+         })
