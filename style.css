@@ -25,3 +25,8 @@
 #search-city{
     width:80%;
 }
+
+#search-button-icon{
+    width:15px;
+    display:inline-block;
+}
