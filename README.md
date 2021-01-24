@@ -12,5 +12,5 @@ The most difficult part of this task, was to get all of the functionality above,
 #### For the future 
 I would like to research this more and use it within future projects I am going to do. Especially Jquery, as it makes things much easier. I know there are still a few things I can do to make it look better, perhaps more attractive to the naked eye, but based off the demo, I have done what I have needed to. Therefore I am happy with the piece of work I have produced, next time I know, what I can add to do it better.
 ###### Screenshots & Link to site
-![Screenshot #1](/Screenshot.png)
+![Screenshot #1](/Screenshot .png)
 https://gurvinderdehl.github.io/Homework-6-Weather-Dashboard-/
