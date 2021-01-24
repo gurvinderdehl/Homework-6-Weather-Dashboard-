@@ -1,1 +1,7 @@
-s
+#header{
+    background-size: cover;
+    background-position-y: 40%;
+    color:white;
+    background-color:rgb(83, 83, 83);
+    position:relative !important;
+}
