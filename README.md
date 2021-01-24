@@ -6,10 +6,9 @@ Make a weather dashboard with form inputs, so that when I search for a city, I a
 
 
 ### What I learnt?
-The most difficult part of this task, was to get all of the functionality above, combining all elements of code together. The most useful part of this task was learning how to access the API's, from the site. Making requests to get that data was the most difficult part of this task. Using JQuery to build my site was so much easier, than using Javascript by itself. 
+The most difficult part of this task, was to get all of the functionality above, combining all elements of code together. The most useful part of this task was learning how to access the API's, from the site. Making requests to get that data was the most difficult part of this task. Using JQuery to build my site was so much easier, than using Javascript by itself.
 
 
 #### For the future 
-
-
+I would like to research this more and use it within future projects I am going to do. Especially Jquery, as it makes things much easier. I know there are still a few things I can do to make it look better, perhaps more attractive to the naked eye, but based off the demo, I have done what I have needed to. Therefore I am happy with the piece of work I have produced, next time I know, what I can add to do it better.
 ###### Screenshots & Link to site
